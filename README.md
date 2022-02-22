@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter App Development
 - 🔭 I’m currently working on Final Assignment / Essay and Personal Projects
-- 👯 I’m looking to collaborate on small startup that have good culture
+- 👯 I’m looking to collaborate on small startup that have good culture and good people
 - 📫 How to reach me: email me at mirfanrafif17@gmail.com
 
  
