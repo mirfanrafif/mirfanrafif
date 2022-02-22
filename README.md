@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Flutter App Development
+- 🔭 I’m currently working on Final Assignment / Essay and Personal Projects
+- 👯 I’m looking to collaborate on small startup that have good culture
+- 📫 How to reach me: email me at mirfanrafif17@gmail.com
+
+ 
+
 <!--
 **mirfanrafif/mirfanrafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
