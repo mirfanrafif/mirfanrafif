@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Irfan Rafif. Currently doing my last semester at State Polytechnic of Malang, ID.
+
+[![wakatime](https://wakatime.com/badge/user/adccd9a4-6c79-4608-bfcd-0187030991da.svg)](https://wakatime.com/@adccd9a4-6c79-4608-bfcd-0187030991da)
+
 - 🌱 I’m currently learning Flutter App Development
 - 🔭 I’m currently working on Final Assignment / Essay and Personal Projects
 - 👯 I’m looking to collaborate on small startup that have good culture and good people
