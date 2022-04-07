@@ -4,6 +4,8 @@ My name is Irfan Rafif. Currently doing my last semester at State Polytechnic of
 
 [![wakatime](https://wakatime.com/badge/user/adccd9a4-6c79-4608-bfcd-0187030991da.svg)](https://wakatime.com/@adccd9a4-6c79-4608-bfcd-0187030991da)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AikaMinami&layout=compact&langs_count=8&theme=algolia"/>
+
 - 🌱 I’m currently learning Flutter App Development
 - 🔭 I’m currently working on Final Assignment / Essay and Personal Projects
 - 👯 I’m looking to collaborate on small startup that have good culture and good people
