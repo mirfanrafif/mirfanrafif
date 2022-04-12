@@ -3,7 +3,7 @@
 My name is Irfan Rafif. Currently doing my last semester at State Polytechnic of Malang, ID.
 
 - 🌱 I’m currently learning Flutter App Development
-- 🔭 I’m currently working on Final Assignment / Essay and Personal Projects
+- 🔭 I’m currently working on Final Assignment / Essay and Freelance Projects
 - 👯 I’m looking to collaborate on small startup that have good culture and good people
 - 📫 How to reach me: email me at mirfanrafif17@gmail.com
 
