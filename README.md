@@ -8,7 +8,7 @@ My name is Irfan Rafif. Currently doing my last semester at State Polytechnic of
 - 📫 How to reach me: email me at mirfanrafif17@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirfanrafif&layout=compact&langs_count=8&theme=algolia"/>
-![wakatime](https://wakatime.com/badge/user/adccd9a4-6c79-4608-bfcd-0187030991da.svg)](https://wakatime.com/@adccd9a4-6c79-4608-bfcd-0187030991da)
+[![wakatime](https://wakatime.com/badge/user/adccd9a4-6c79-4608-bfcd-0187030991da.svg)](https://wakatime.com/@adccd9a4-6c79-4608-bfcd-0187030991da)
 
 <!--
 **mirfanrafif/mirfanrafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
