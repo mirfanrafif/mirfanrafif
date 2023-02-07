@@ -7,8 +7,6 @@ My name is Irfan Rafif. Currently doing my last semester at State Polytechnic of
 - 👯 I’m looking to collaborate on small startup that have good culture and good people
 - 📫 How to reach me: email me at mirfanrafif17@gmail.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirfanrafif&layout=compact&langs_count=8&theme=algolia"/>
-
 [![wakatime](https://wakatime.com/badge/user/adccd9a4-6c79-4608-bfcd-0187030991da.svg)](https://wakatime.com/@adccd9a4-6c79-4608-bfcd-0187030991da)
 
 <!--
