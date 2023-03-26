@@ -2,10 +2,13 @@
 
 My name is Irfan Rafif. Currently doing my last semester at State Polytechnic of Malang, ID.
 
-- 🌱 I’m currently learning Flutter App Development
-- 🔭 I’m currently working on Final Assignment / Essay and Freelance Projects
-- 👯 I’m looking to collaborate on small startup that have good culture and good people
+- 🌱 Currently learning Flutter and React
+- 👷 I work at small startup and handling freelance projects
 - 📫 How to reach me: email me at mirfanrafif17@gmail.com
+
+Stack that mainly used by me:
+- 📱 Kotlin, Flutter
+- 🖥️ React, NextJS, NestJS, .NET
 
 [![wakatime](https://wakatime.com/badge/user/adccd9a4-6c79-4608-bfcd-0187030991da.svg)](https://wakatime.com/@adccd9a4-6c79-4608-bfcd-0187030991da)
 
