@@ -5,7 +5,7 @@ My name is Moch. "Irfan" Rafif
 - 🔎 Mainly focusing on React with NextJS and Flutter. 
 - 👷 Currently doing my fulltime job at Cinema XXI as Frontend Developer
 - 🌱 Currently exploring Vue.js with Nuxt 
-- 📫 How to reach me: email me at mirfanrafif17@gmail.com or ![LinkedIn](https://www.linkedin.com/in/mirfanrafif17/)
+- 📫 How to reach me: email me at mirfanrafif17@gmail.com or [LinkedIn](https://www.linkedin.com/in/mirfanrafif17/)
 
 Stacks that mainly used by me:
 - 🖥️ React with NextJS (Mature both Pages Router and App Router), Vue.js with Nuxt (Still exploring)
